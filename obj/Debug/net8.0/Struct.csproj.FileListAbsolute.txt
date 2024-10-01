@@ -12,3 +12,4 @@ C:\Users\User\source\repos\Struct\Struct\obj\Debug\net8.0\refint\Struct.dll
 C:\Users\User\source\repos\Struct\Struct\obj\Debug\net8.0\Struct.pdb
 C:\Users\User\source\repos\Struct\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
 C:\Users\User\source\repos\Struct\Struct\obj\Debug\net8.0\ref\Struct.dll
+C:\Users\User\source\repos\Struct\Struct\obj\Debug\net8.0\Struct.sourcelink.json
